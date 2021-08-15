@@ -1,4 +1,5 @@
-![pic](assessment.jpg)  ## A Take Home Assessment
+## A Take Home Assessment 
+![pic](assessment.jpg)  
 # Basic Tests for QA Engineer Role at unbugQA
 
 ## Tools and Framework used
